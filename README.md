@@ -1,2 +1,2 @@
 # book-management
-App para administrar libros
+App para prestar libros
